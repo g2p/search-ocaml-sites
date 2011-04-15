@@ -1,0 +1,59 @@
+#!/usr/bin/python
+
+import argparse
+import httplib2
+import lxml.etree
+import urllib
+
+
+def el1(li):
+    if len(li) != 1:
+        raise ValueError(li)
+    return li[0]
+
+
+def text1(el, xpath):
+    return el1(el.xpath(xpath)).text
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--query', default='language:ocaml')
+    parser.add_argument('--max', type=int, default=100)
+    parser.add_argument('--sort', default='new')
+    args = parser.parse_args()
+    api_key = open('.ohloh_api_key').read().rstrip()
+    http = httplib2.Http(cache='.http_cache')
+
+    # This xrange is just an upper bound
+    for page in xrange(1, args.max + 1):
+        url = ('https://www.ohloh.net/p.xml?'
+            + urllib.urlencode(
+                {'api_key': api_key, 'query': args.query,
+                 'sort': args.sort, 'page': page,
+                }))
+        hdrs, data = http.request(url)
+        if hdrs.status != 200:
+            raise ValueError(hdrs, data)
+
+        et = lxml.etree.fromstring(data)
+
+        for proj_el in et.xpath('//project'):
+            # May be empty, postprocess this
+            hp_url = text1(proj_el, 'homepage_url')
+            if hp_url:
+                print(hp_url)
+            dl_url = text1(proj_el, 'download_url')
+            if dl_url:
+                print(dl_url)
+
+        items_returned = int(text1(et, '//items_returned'))
+        items_available = int(text1(et, '//items_available'))
+        first_item_position = int(text1(et, '//first_item_position'))
+        last_item_position = first_item_position + items_returned
+        if last_item_position >= min(args.max, items_available):
+            break
+
+
+if __name__ == '__main__':
+    main()
