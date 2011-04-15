@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories type="array">
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/graydon/rust</url>
+    <forks type="integer">28</forks>
+    <pushed-at type="datetime">2011-04-15T13:01:41-07:00</pushed-at>
+    <followers type="integer">393</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>graydon</username>
+    <description>A work-in-progress programming language; not yet suitable for users</description>
+    <created-at type="datetime">2010-06-16T13:39:03-07:00</created-at>
+    <integrate-branch>master</integrate-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-16T13:39:03-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">393</watchers>
+    <size type="integer">10414</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T13:01:41-07:00</pushed>
+    <name>rust</name>
+    <owner>graydon</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">64</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/facebook/pfff</url>
+    <forks type="integer">14</forks>
+    <pushed-at type="datetime">2011-04-15T09:37:49-07:00</pushed-at>
+    <followers type="integer">103</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>facebook</username>
+    <description>pfff is mainly an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.</description>
+    <created-at type="datetime">2010-09-22T22:13:55-07:00</created-at>
+    <organization>facebook</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-22T22:13:55-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://github.com/facebook/pfff/wiki/Main</homepage>
+    <watchers type="integer">103</watchers>
+    <size type="integer">10740</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T09:37:49-07:00</pushed>
+    <name>pfff</name>
+    <owner>facebook</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">1</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/pikatchu/LinearML</url>
+    <forks type="integer">5</forks>
+    <pushed-at type="datetime">2011-04-15T10:44:45-07:00</pushed-at>
+    <followers type="integer">69</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>pikatchu</username>
+    <description>Functional language for parallel programming</description>
+    <created-at type="datetime">2010-06-20T15:51:27-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-20T15:51:27-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">69</watchers>
+    <size type="integer">5588</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T10:44:45-07:00</pushed>
+    <name>LinearML</name>
+    <owner>pikatchu</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">2</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mfp/extprot</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-03-25T09:19:02-07:00</pushed-at>
+    <followers type="integer">67</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mfp</username>
+    <description>extprot: extensible binary protocols for cross-language communication and long-term serialization</description>
+    <created-at type="datetime">2008-10-31T09:51:07-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-10-31T09:51:07-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">67</watchers>
+    <size type="integer">308</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-25T09:19:02-07:00</pushed>
+    <name>extprot</name>
+    <owner>mfp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/ocaml-batteries-team/batteries-included</url>
+    <forks type="integer">16</forks>
+    <pushed-at type="datetime">2011-04-14T13:36:37-07:00</pushed-at>
+    <followers type="integer">61</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>ocaml-batteries-team</username>
+    <description>Batteries Included project</description>
+    <created-at type="datetime">2009-11-16T09:19:48-08:00</created-at>
+    <integrate-branch>master</integrate-branch>
+    <master-branch>master</master-branch>
+    <organization>ocaml-batteries-team</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-11-16T09:19:48-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://batteries.forge.ocamlcore.org/</homepage>
+    <watchers type="integer">61</watchers>
+    <size type="integer">6248</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T13:36:37-07:00</pushed>
+    <name>batteries-included</name>
+    <owner>ocaml-batteries-team</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">26</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/xen-org/xen-api</url>
+    <forks type="integer">26</forks>
+    <pushed-at type="datetime">2011-04-15T10:35:19-07:00</pushed-at>
+    <followers type="integer">50</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>xen-org</username>
+    <description>XCP xen-api</description>
+    <created-at type="datetime">2010-10-04T03:52:57-07:00</created-at>
+    <organization>xen-org</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-04T03:52:57-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.xen.org/products/cloudxen.html</homepage>
+    <watchers type="integer">50</watchers>
+    <size type="integer">5760</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T10:35:19-07:00</pushed>
+    <name>xen-api</name>
+    <owner>xen-org</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mfp/ocamlmq</url>
+    <forks type="integer">4</forks>
+    <pushed-at type="datetime">2010-12-26T12:00:17-08:00</pushed-at>
+    <followers type="integer">41</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mfp</username>
+    <description>Small footprint, easy to use STOMP message broker designed for task queues and IPC</description>
+    <created-at type="datetime">2010-06-14T04:36:40-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-14T04:36:40-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">41</watchers>
+    <size type="integer">168</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-12-26T12:00:17-08:00</pushed>
+    <name>ocamlmq</name>
+    <owner>mfp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jaked/ocamljs</url>
+    <forks type="integer">6</forks>
+    <pushed-at type="datetime">2010-10-22T12:45:09-07:00</pushed-at>
+    <followers type="integer">39</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jaked</username>
+    <description>Javascript back-end for OCamlc</description>
+    <created-at type="datetime">2010-01-30T08:10:24-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-30T08:10:24-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://jaked.github.com/ocamljs</homepage>
+    <watchers type="integer">39</watchers>
+    <size type="integer">3832</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-22T12:45:09-07:00</pushed>
+    <name>ocamljs</name>
+    <owner>jaked</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">2</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mfp/ocsiblog</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2009-04-13T08:52:36-07:00</pushed-at>
+    <followers type="integer">31</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mfp</username>
+    <description>Stand-alone, minimalistic blogging engine powered by the Ocsigen web server + framework for OCaml.</description>
+    <created-at type="datetime">2008-12-24T03:40:44-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-12-24T03:40:44-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">31</watchers>
+    <size type="integer">1024</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2009-04-13T08:52:36-07:00</pushed>
+    <name>ocsiblog</name>
+    <owner>mfp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/alavrik/piqi</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-04-14T22:55:42-07:00</pushed-at>
+    <followers type="integer">29</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>alavrik</username>
+    <description>Serialization system for OCaml and Erlang, JSON-XML-Protocol Buffers data conversion, and more...</description>
+    <created-at type="datetime">2010-07-06T01:17:24-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-07-06T01:17:24-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://piqi.org</homepage>
+    <watchers type="integer">29</watchers>
+    <size type="integer">4980</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T22:55:42-07:00</pushed>
+    <name>piqi</name>
+    <owner>alavrik</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/xen-org/xen-api-libs</url>
+    <forks type="integer">16</forks>
+    <pushed-at type="datetime">2011-04-13T05:52:13-07:00</pushed-at>
+    <followers type="integer">28</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>xen-org</username>
+    <description>XCP xen-api libs</description>
+    <created-at type="datetime">2010-10-04T03:49:28-07:00</created-at>
+    <organization>xen-org</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-04T03:49:28-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://xen.org/</homepage>
+    <watchers type="integer">28</watchers>
+    <size type="integer">1164</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-13T05:52:13-07:00</pushed>
+    <name>xen-api-libs</name>
+    <owner>xen-org</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/OCamlPro/OCamlPro-OCaml-Branch</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-11T01:38:12-07:00</pushed-at>
+    <followers type="integer">23</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>OCamlPro</username>
+    <description>This is a fork of the inline-more branch in the OCaml SVN repository.</description>
+    <created-at type="datetime">2011-04-01T01:34:27-07:00</created-at>
+    <organization>OCamlPro</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-04-01T01:34:27-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">23</watchers>
+    <size type="integer">4864</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-11T01:38:12-07:00</pushed>
+    <name>OCamlPro-OCaml-Branch</name>
+    <owner>OCamlPro</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jaked/froc</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-10-22T12:53:32-07:00</pushed-at>
+    <followers type="integer">21</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jaked</username>
+    <description>Functional reactive programming in OCaml</description>
+    <created-at type="datetime">2010-01-30T09:21:25-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-30T09:21:25-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://jaked.github.com/froc</homepage>
+    <watchers type="integer">21</watchers>
+    <size type="integer">3230</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-22T12:53:32-07:00</pushed>
+    <name>froc</name>
+    <owner>jaked</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/g2p/git-fs</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-02-20T12:25:48-08:00</pushed-at>
+    <followers type="integer">21</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>g2p</username>
+    <description>A filesystem interface to git repositories</description>
+    <created-at type="datetime">2010-02-12T05:24:01-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-02-12T05:24:01-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">false</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">21</watchers>
+    <size type="integer">2316</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-02-20T12:25:48-08:00</pushed>
+    <name>git-fs</name>
+    <owner>g2p</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/pangloss/gibak</url>
+    <forks type="integer">12</forks>
+    <pushed-at type="datetime">2008-07-28T17:28:52-07:00</pushed-at>
+    <followers type="integer">18</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>pangloss</username>
+    <description>A fork of Mauricio Fernandez's git backup tool.</description>
+    <created-at type="datetime">2008-07-28T17:28:24-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-07-28T17:28:24-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://eigenclass.org/hiki/gibak-0.3.0</homepage>
+    <watchers type="integer">18</watchers>
+    <size type="integer">0</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2008-07-28T17:28:52-07:00</pushed>
+    <name>gibak</name>
+    <owner>pangloss</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/EchoTeam/ocaml-erlang-port</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-10-14T21:36:58-07:00</pushed-at>
+    <followers type="integer">17</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>EchoTeam</username>
+    <description>Support library for OCaml programs running as Erlang ports</description>
+    <created-at type="datetime">2010-02-20T23:04:47-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-02-20T23:04:47-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">17</watchers>
+    <size type="integer">348</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-14T21:36:58-07:00</pushed>
+    <name>ocaml-erlang-port</name>
+    <owner>EchoTeam</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/kig/preludeml</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2010-03-14T13:47:39-07:00</pushed-at>
+    <followers type="integer">15</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>kig</username>
+    <description>OCaml stdlib replacement with a Haskellish flavour</description>
+    <created-at type="datetime">2008-09-17T07:02:48-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-09-17T07:02:48-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">15</watchers>
+    <language>OCaml</language>
+    <size type="integer">6484</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-03-14T13:47:39-07:00</pushed>
+    <name>preludeml</name>
+    <owner>kig</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/coccinelle/coccinelle</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2011-04-14T00:59:02-07:00</pushed-at>
+    <followers type="integer">15</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>coccinelle</username>
+    <description>Release tracking for the Coccinelle project</description>
+    <created-at type="datetime">2010-09-29T04:18:12-07:00</created-at>
+    <organization>coccinelle</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-29T04:18:12-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://coccinelle.lip6.fr/</homepage>
+    <watchers type="integer">15</watchers>
+    <size type="integer">13152</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T00:59:02-07:00</pushed>
+    <name>coccinelle</name>
+    <owner>coccinelle</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">3</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/agarwal/biocaml</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-01-24T10:12:42-08:00</pushed-at>
+    <followers type="integer">14</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>agarwal</username>
+    <description>OCaml Bioinformatics Library</description>
+    <created-at type="datetime">2010-03-22T15:08:50-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-22T15:08:50-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://biocaml.org</homepage>
+    <watchers type="integer">14</watchers>
+    <size type="integer">2932</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-24T10:12:42-08:00</pushed>
+    <name>biocaml</name>
+    <owner>agarwal</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/ocaml-orm-sqlite</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2010-11-08T12:08:56-08:00</pushed-at>
+    <followers type="integer">14</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Development repository: the main repo is at http://github.com/mirage/orm : Generates convenient, statically type-safe accessor methods for databases</description>
+    <created-at type="datetime">2009-03-30T13:42:42-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-03-30T13:42:42-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://anil.recoil.org/</homepage>
+    <watchers type="integer">14</watchers>
+    <size type="integer">1896</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-11-08T12:08:56-08:00</pushed>
+    <name>ocaml-orm-sqlite</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/OCamlPro/numcaml</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-04-11T08:37:56-07:00</pushed-at>
+    <followers type="integer">14</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>OCamlPro</username>
+    <description>Scientific Computing Tools For Objective Caml</description>
+    <created-at type="datetime">2011-04-07T04:15:53-07:00</created-at>
+    <organization>OCamlPro</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-04-07T04:15:53-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">14</watchers>
+    <size type="integer">780</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-11T08:37:56-07:00</pushed>
+    <name>numcaml</name>
+    <owner>OCamlPro</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/yoshihiro503/ocamltter</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-01-13T20:50:34-08:00</pushed-at>
+    <followers type="integer">12</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>yoshihiro503</username>
+    <description>ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.</description>
+    <created-at type="datetime">2010-03-25T05:04:10-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-25T05:04:10-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://ocaml-nagoya.g.hatena.ne.jp/keyword/ocamltter</homepage>
+    <watchers type="integer">12</watchers>
+    <size type="integer">2997</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-13T20:50:34-08:00</pushed>
+    <name>ocamltter</name>
+    <owner>yoshihiro503</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/matsen/pplacer</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-04-14T20:12:38-07:00</pushed-at>
+    <followers type="integer">12</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>matsen</username>
+    <description>Phylogenetic placement and downstream analysis</description>
+    <created-at type="datetime">2009-08-06T17:21:26-07:00</created-at>
+    <master-branch>master</master-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-08-06T17:21:26-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://matsen.fhcrc.org/pplacer/</homepage>
+    <watchers type="integer">12</watchers>
+    <size type="integer">1304</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T20:12:38-07:00</pushed>
+    <name>pplacer</name>
+    <owner>matsen</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">7</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/kig/gitbug</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-02-08T04:56:33-08:00</pushed-at>
+    <followers type="integer">11</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>kig</username>
+    <description>In-repo bug tracker for Git</description>
+    <created-at type="datetime">2008-09-17T06:59:54-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-09-17T06:59:54-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">11</watchers>
+    <size type="integer">1620</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-02-08T04:56:33-08:00</pushed>
+    <name>gitbug</name>
+    <owner>kig</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/septract/jstar</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-13T15:04:56-07:00</pushed-at>
+    <followers type="integer">11</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>septract</username>
+    <description>jStar is a verification tool based on separation logic. </description>
+    <created-at type="datetime">2010-03-29T05:46:20-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-29T05:46:20-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.jstarverifier.org</homepage>
+    <watchers type="integer">11</watchers>
+    <size type="integer">21712</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-13T15:04:56-07:00</pushed>
+    <name>jstar</name>
+    <owner>septract</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">8</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mzp/ocaml-hoogle</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-01-12T02:27:38-08:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mzp</username>
+    <description>OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
+
+You could use this on Web browser.</description>
+    <created-at type="datetime">2010-01-08T16:38:47-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-08T16:38:47-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://search.ocaml.jp</homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">2355</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-01-12T02:27:38-08:00</pushed>
+    <name>ocaml-hoogle</name>
+    <owner>mzp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/xen-org/xenops</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-12-07T05:12:43-08:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>xen-org</username>
+    <description>Xen operations</description>
+    <created-at type="datetime">2010-09-14T04:32:06-07:00</created-at>
+    <organization>xen-org</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-14T04:32:06-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">480</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-12-07T05:12:43-08:00</pushed>
+    <name>xenops</name>
+    <owner>xen-org</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/thelema/ocaml-community</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-29T01:10:06-07:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>thelema</username>
+    <description>Fork of OCaml compiler - SVN mirror in 'origin' branch</description>
+    <created-at type="datetime">2008-03-06T14:12:37-08:00</created-at>
+    <master-branch>origin</master-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-03-06T14:12:37-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://caml.inria.fr/ocaml/index.en.html</homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">2608</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-29T01:10:06-07:00</pushed>
+    <name>ocaml-community</name>
+    <owner>thelema</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/andrenth/ospec</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2009-07-03T11:37:54-07:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>andrenth</username>
+    <description>BDD for OCaml</description>
+    <created-at type="datetime">2009-03-25T12:54:59-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-03-25T12:54:59-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">1024</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2009-07-03T11:37:54-07:00</pushed>
+    <name>ospec</name>
+    <owner>andrenth</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jaked/orpc</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-10-01T07:58:49-07:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jaked</username>
+    <description>Generates RPC bindings from OCaml signatures</description>
+    <created-at type="datetime">2010-01-30T09:17:29-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-30T09:17:29-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://jaked.github.com/orpc</homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">3258</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-01T07:58:49-07:00</pushed>
+    <name>orpc</name>
+    <owner>jaked</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mirage/orm</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2011-01-26T06:21:04-08:00</pushed-at>
+    <followers type="integer">10</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mirage</username>
+    <description>Object Relational Mapper extension</description>
+    <created-at type="datetime">2009-11-12T16:36:27-08:00</created-at>
+    <organization>mirage</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-11-12T16:36:27-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">10</watchers>
+    <size type="integer">194</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-26T06:21:04-08:00</pushed>
+    <name>orm</name>
+    <owner>mirage</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/berke/aurochs</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2010-10-09T08:15:12-07:00</pushed-at>
+    <followers type="integer">9</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>berke</username>
+    <description>Aurochs is a parser generator that uses the parse expression grammar  (PEG) or &quot;packrat&quot; approach. It takes a grammar in a BNF-like notation (a .peg file) and produces bytecode (a .nog file) for a stack automaton. This bytecode is later interpreted on the input to parse using a C library. Bindings are given for Ocaml, Java and Exascript.</description>
+    <created-at type="datetime">2009-01-26T09:09:37-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-01-26T09:09:37-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://aurochs.fr/</homepage>
+    <watchers type="integer">9</watchers>
+    <size type="integer">17524</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-09T08:15:12-07:00</pushed>
+    <name>aurochs</name>
+    <owner>berke</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/ocaml-cohttp</url>
+    <forks type="integer">5</forks>
+    <pushed-at type="datetime">2011-01-23T05:20:23-08:00</pushed-at>
+    <followers type="integer">9</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Very lightweight HTTP server using Lwt</description>
+    <created-at type="datetime">2009-09-30T05:48:23-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-09-30T05:48:23-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">9</watchers>
+    <size type="integer">104</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-23T05:20:23-08:00</pushed>
+    <name>ocaml-cohttp</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/melange</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-22T12:52:26-07:00</pushed-at>
+    <followers type="integer">9</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Fast, statically type-safe OCaml network applications (e.g. DNS/SSH)</description>
+    <created-at type="datetime">2009-02-28T17:29:34-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-02-28T17:29:34-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://anil.recoil.org/</homepage>
+    <watchers type="integer">9</watchers>
+    <size type="integer">172</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-22T12:52:26-07:00</pushed>
+    <name>melange</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/afeinberg/ocaml-vclock</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-11-07T03:43:39-08:00</pushed-at>
+    <followers type="integer">9</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>afeinberg</username>
+    <description>Vector clocks in OCaml</description>
+    <created-at type="datetime">2010-11-04T01:32:43-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-04T01:32:43-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">9</watchers>
+    <size type="integer">604</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-11-07T03:43:39-08:00</pushed>
+    <name>ocaml-vclock</name>
+    <owner>afeinberg</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mariusaeriksen/ocaml-twitterstream</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-08-16T23:53:59-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mariusaeriksen</username>
+    <description>twitter streaming library for ocaml</description>
+    <created-at type="datetime">2010-08-05T12:39:08-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-08-05T12:39:08-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">8</watchers>
+    <language>OCaml</language>
+    <size type="integer">344</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-08-16T23:53:59-07:00</pushed>
+    <name>ocaml-twitterstream</name>
+    <owner>mariusaeriksen</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/kappamodeler/kappa</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-28T05:49:09-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>kappamodeler</username>
+    <description>A domain-specific language that allows the expression or protein interactions that can be used to build executable models.</description>
+    <created-at type="datetime">2010-05-24T08:11:21-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-05-24T08:11:21-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.kappalanguage.org</homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">83672</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-28T05:49:09-07:00</pushed>
+    <name>kappa</name>
+    <owner>kappamodeler</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/felix-lang/felix</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-04-13T06:38:49-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>felix-lang</username>
+    <description>The Felix Programming Language</description>
+    <created-at type="datetime">2010-03-01T23:11:15-08:00</created-at>
+    <organization>felix-lang</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-01T23:11:15-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://felix-lang.org</homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">19320</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-13T06:38:49-07:00</pushed>
+    <name>felix</name>
+    <owner>felix-lang</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">19</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/barko/aws</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-07T17:21:17-08:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>barko</username>
+    <description>OCaml client access to Amazon services, such as S3, EC2, FPS, etc.</description>
+    <created-at type="datetime">2010-11-09T14:55:20-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-09T14:55:20-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">1648</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-07T17:21:17-08:00</pushed>
+    <name>aws</name>
+    <owner>barko</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/coq/coq</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2011-04-15T05:10:18-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>coq</username>
+    <description>Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. </description>
+    <created-at type="datetime">2011-02-16T21:49:37-08:00</created-at>
+    <organization>coq</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-02-16T21:49:37-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://coq.inria.fr/</homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">8040</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T05:10:18-07:00</pushed>
+    <name>coq</name>
+    <owner>coq</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/rgeoghegan/ocaml-redis</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-08-08T17:03:07-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>rgeoghegan</username>
+    <description>OCaml client for the Redis advanced key-value store</description>
+    <created-at type="datetime">2009-11-29T07:56:06-08:00</created-at>
+    <integrate-branch>redis_2_rc1</integrate-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-11-29T07:56:06-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">4012</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-08-08T17:03:07-07:00</pushed>
+    <name>ocaml-redis</name>
+    <owner>rgeoghegan</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">26</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/OCamlPro/ocamlpro.github.com</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-15T09:21:19-07:00</pushed-at>
+    <followers type="integer">8</followers>
+    <has-issues type="boolean">false</has-issues>
+    <username>OCamlPro</username>
+    <description>OCamlPro homepage mirror</description>
+    <created-at type="datetime">2011-04-05T06:16:17-07:00</created-at>
+    <organization>OCamlPro</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-04-05T06:16:17-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>ocamlpro.github.com</homepage>
+    <watchers type="integer">8</watchers>
+    <size type="integer">1176</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-15T09:21:19-07:00</pushed>
+    <name>ocamlpro.github.com</name>
+    <owner>OCamlPro</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jaked/otoky</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2010-08-06T16:23:45-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jaked</username>
+    <description>OCaml bindings for Tokyo {Cabinet, Tyrant}</description>
+    <created-at type="datetime">2010-01-14T15:24:05-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-14T15:24:05-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <language>OCaml</language>
+    <size type="integer">2968</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-08-06T16:23:45-07:00</pushed>
+    <name>otoky</name>
+    <owner>jaked</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/ocaml-appengine</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-03-22T13:42:17-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Run OCaml applications on Google Appengine</description>
+    <created-at type="datetime">2010-03-11T14:01:50-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-11T14:01:50-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <language>OCaml</language>
+    <size type="integer">592</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-03-22T13:42:17-07:00</pushed>
+    <name>ocaml-appengine</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/ermine/xmpp</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-01-26T06:44:56-08:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>ermine</username>
+    <description>OCaml based XMPP implementation</description>
+    <created-at type="datetime">2009-09-04T09:39:33-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-09-04T09:39:33-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">920</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-26T06:44:56-08:00</pushed>
+    <name>xmpp</name>
+    <owner>ermine</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/collaborativetrust/WikiTrust</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2011-02-28T05:42:50-08:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">false</has-issues>
+    <username>collaborativetrust</username>
+    <description>Author reputation, content trust, and origin / authorship analysis for wiki content.</description>
+    <created-at type="datetime">2009-08-21T01:28:47-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-08-21T01:28:47-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://wikitrust.soe.ucsc.edu/</homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">1440</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-02-28T05:42:50-08:00</pushed>
+    <name>WikiTrust</name>
+    <owner>collaborativetrust</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/krohrer/caml-inspect</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-05-11T04:39:44-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>krohrer</username>
+    <description>Inspection of internal value representations and the object graph</description>
+    <created-at type="datetime">2010-04-15T06:08:54-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-04-15T06:08:54-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>https://forge.ocamlcore.org/projects/caml-inspect/</homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">2704</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-05-11T04:39:44-07:00</pushed>
+    <name>caml-inspect</name>
+    <owner>krohrer</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/samoht/htcaml</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-06T04:16:01-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>samoht</username>
+    <description>HyperText &amp; Caml Meta Language</description>
+    <created-at type="datetime">2010-10-04T14:23:10-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-04T14:23:10-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">2348</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-06T04:16:01-07:00</pushed>
+    <name>htcaml</name>
+    <owner>samoht</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mfp/ocaml-sqlexpr</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-19T10:15:05-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mfp</username>
+    <description>Minimalistic syntax extension for type-safe, convenient execution of SQL statements.</description>
+    <created-at type="datetime">2010-07-06T02:51:20-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-07-06T02:51:20-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">2740</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-19T10:15:05-07:00</pushed>
+    <name>ocaml-sqlexpr</name>
+    <owner>mfp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/danmey/ocaml-inline-x86</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-14T16:31:06-07:00</pushed-at>
+    <followers type="integer">7</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>danmey</username>
+    <description>Combinator based library for dynamic emission of x86 code.</description>
+    <created-at type="datetime">2010-09-28T11:51:12-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-28T11:51:12-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">7</watchers>
+    <size type="integer">1684</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T16:31:06-07:00</pushed>
+    <name>ocaml-inline-x86</name>
+    <owner>danmey</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mzp/scheme-abc</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2010-03-13T04:53:44-08:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mzp</username>
+    <description>Scheme compiler for ActionScript3 Bytecode/Flash</description>
+    <created-at type="datetime">2008-05-07T22:36:33-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-05-07T22:36:33-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://happyabc.org</homepage>
+    <watchers type="integer">6</watchers>
+    <language>OCaml</language>
+    <size type="integer">11992</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-03-13T04:53:44-08:00</pushed>
+    <name>scheme-abc</name>
+    <owner>mzp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/mpl</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-08-27T15:44:26-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Specification compiler to marshal/unmarshal binary protocols in OCaml</description>
+    <created-at type="datetime">2010-08-27T11:11:37-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-08-27T11:11:37-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <language>OCaml</language>
+    <size type="integer">308</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-08-27T15:44:26-07:00</pushed>
+    <name>mpl</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">1</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/djs55/openflow-ocaml</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2010-09-28T10:02:55-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>djs55</username>
+    <description>Implementation of the openflow protocol in OCaml</description>
+    <created-at type="datetime">2010-09-06T13:20:14-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-06T13:20:14-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">996</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-09-28T10:02:55-07:00</pushed>
+    <name>openflow-ocaml</name>
+    <owner>djs55</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jkrivine/KaSim</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-02T08:02:07-08:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jkrivine</username>
+    <description>Command line stochastic simulator for kappa models. Documentation can be found in the man/ directory </description>
+    <created-at type="datetime">2010-10-24T03:49:39-07:00</created-at>
+    <master-branch>master</master-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-24T03:49:39-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://kappalanguage.org/</homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">12794</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-02T08:02:07-08:00</pushed>
+    <name>KaSim</name>
+    <owner>jkrivine</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">10</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/xen-org/ocaml-encodings</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-07-09T08:32:20-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>xen-org</username>
+    <description>Character and string encoding (UTF) library for OCaml.</description>
+    <created-at type="datetime">2010-06-29T06:57:50-07:00</created-at>
+    <organization>xen-org</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-29T06:57:50-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">276</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-07-09T08:32:20-07:00</pushed>
+    <name>ocaml-encodings</name>
+    <owner>xen-org</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mzp/websocket-ocaml</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-11-24T04:50:26-08:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mzp</username>
+    <description>WebSocket Server for OCaml</description>
+    <created-at type="datetime">2010-11-12T16:04:11-08:00</created-at>
+    <master-branch>master</master-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-12T16:04:11-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://eva-lu-ator.net/redmine/projects/websocket-ocaml</homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">1740</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-11-24T04:50:26-08:00</pushed>
+    <name>websocket-ocaml</name>
+    <owner>mzp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mfp/ocaml-cassandra</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-11-06T10:23:23-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mfp</username>
+    <description>OCaml client library for the Apache Cassandra highly scalable distributed database.</description>
+    <created-at type="datetime">2010-05-17T12:19:44-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-05-17T12:19:44-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">2008</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-11-06T10:23:23-07:00</pushed>
+    <name>ocaml-cassandra</name>
+    <owner>mfp</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/vbigiani/weidu</url>
+    <forks type="integer">6</forks>
+    <pushed-at type="datetime">2011-04-01T02:42:41-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>vbigiani</username>
+    <description>WeiDU is a program used to develop, distribute and install modifications for games based on the Infinity Engine.</description>
+    <created-at type="datetime">2009-01-13T07:24:12-08:00</created-at>
+    <integrate-branch>master</integrate-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-01-13T07:24:12-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.weidu.org</homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">12360</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-01T02:42:41-07:00</pushed>
+    <name>weidu</name>
+    <owner>vbigiani</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/alanfalloon/ocaml-quickcheck</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2009-03-27T18:32:23-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>alanfalloon</username>
+    <description>A mechanical translation of the Haskell QuickCheck library into Ocaml</description>
+    <created-at type="datetime">2009-03-27T16:06:41-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-03-27T16:06:41-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://brierwooddesign.com/2009/1/16/ocaml-quickcheck-translating-quickcheck-from-haskell-type-classes-to-ocaml-modules</homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">448</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2009-03-27T18:32:23-07:00</pushed>
+    <name>ocaml-quickcheck</name>
+    <owner>alanfalloon</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/farr/mcmc-ocaml</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-06T17:46:30-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>farr</username>
+    <description>OCaml Markov Chain Monte Carlo</description>
+    <created-at type="datetime">2010-06-22T15:38:59-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-22T15:38:59-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">4780</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-06T17:46:30-07:00</pushed>
+    <name>mcmc-ocaml</name>
+    <owner>farr</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/attresearch/yakker</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-11T07:11:35-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>attresearch</username>
+    <description></description>
+    <created-at type="datetime">2010-11-10T08:58:16-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-10T08:58:16-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">8668</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-11T07:11:35-07:00</pushed>
+    <name>yakker</name>
+    <owner>attresearch</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/samoht/rpc-light</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-04-11T08:44:24-07:00</pushed-at>
+    <followers type="integer">6</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>samoht</username>
+    <description>Light library to deal with RPCs in OCaml</description>
+    <created-at type="datetime">2010-01-21T09:24:29-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-21T09:24:29-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">6</watchers>
+    <size type="integer">556</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-11T08:44:24-07:00</pushed>
+    <name>rpc-light</name>
+    <owner>samoht</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jakedouglas/OCamlMachine</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-02-04T23:43:51-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jakedouglas</username>
+    <description>EventMachine style networking library for OCaml</description>
+    <created-at type="datetime">2009-12-27T19:06:46-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-12-27T19:06:46-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <language>OCaml</language>
+    <size type="integer">568</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-02-04T23:43:51-08:00</pushed>
+    <name>OCamlMachine</name>
+    <owner>jakedouglas</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/ocaml-abnf</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2010-10-30T18:03:22-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Experiments in LLVM parsing of ABNF</description>
+    <created-at type="datetime">2009-02-28T16:52:22-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-02-28T16:52:22-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://anil.recoil.org/</homepage>
+    <watchers type="integer">5</watchers>
+    <language>OCaml</language>
+    <size type="integer">1044</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-10-30T18:03:22-07:00</pushed>
+    <name>ocaml-abnf</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/dsheets/ocaml-cohttpserver</url>
+    <forks type="integer">4</forks>
+    <pushed-at type="datetime">2010-09-22T14:10:15-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>dsheets</username>
+    <description>A basic HTTP daemon implemented on top of ocaml-cohttp</description>
+    <created-at type="datetime">2009-12-11T18:15:18-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-12-11T18:15:18-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <language>OCaml</language>
+    <size type="integer">348</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-09-22T14:10:15-07:00</pushed>
+    <name>ocaml-cohttpserver</name>
+    <owner>dsheets</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/Jupotter/prvasmbly</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-12-11T15:45:57-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>Jupotter</username>
+    <description>affichage de heightmap</description>
+    <created-at type="datetime">2010-10-06T11:14:39-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-06T11:14:39-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <language>OCaml</language>
+    <size type="integer">5028</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-12-11T15:45:57-08:00</pushed>
+    <name>prvasmbly</name>
+    <owner>Jupotter</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mariusaeriksen/ocaml-rtree</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-12-11T11:59:30-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mariusaeriksen</username>
+    <description>an R-tree implementation in OCaml</description>
+    <created-at type="datetime">2010-08-14T21:22:15-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-08-14T21:22:15-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">1624</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-12-11T11:59:30-08:00</pushed>
+    <name>ocaml-rtree</name>
+    <owner>mariusaeriksen</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/zaxtax/ocaml-clustering</url>
+    <forks type="integer">0</forks>
+    <pushed-at type="datetime">2008-08-13T10:55:38-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>zaxtax</username>
+    <description>Collection of clustering algorithms written in Ocaml</description>
+    <created-at type="datetime">2008-06-27T01:41:09-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-06-27T01:41:09-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">108</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2008-08-13T10:55:38-07:00</pushed>
+    <name>ocaml-clustering</name>
+    <owner>zaxtax</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/barko/wrxh</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-02-14T12:36:37-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>barko</username>
+    <description>compactly express and render xhtml trees in OCaml</description>
+    <created-at type="datetime">2010-11-09T13:24:23-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-09T13:24:23-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">304</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-02-14T12:36:37-08:00</pushed>
+    <name>wrxh</name>
+    <owner>barko</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/barko/kache</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-03T00:36:53-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>barko</username>
+    <description>OCaml mem-cache server and client, based on Lwt and Atdgen</description>
+    <created-at type="datetime">2011-01-13T13:58:02-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-01-13T13:58:02-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">524</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-03T00:36:53-08:00</pushed>
+    <name>kache</name>
+    <owner>barko</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jaked/deriving</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2010-09-03T18:54:09-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jaked</username>
+    <description>Extension to OCaml for deriving functions from type declarations.</description>
+    <created-at type="datetime">2010-09-03T14:51:57-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-03T14:51:57-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://code.google.com/p/deriving/</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">828</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-09-03T18:54:09-07:00</pushed>
+    <name>deriving</name>
+    <owner>jaked</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/np/camllexer</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-03-26T15:50:18-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>np</username>
+    <description>An independant OCaml lexer, extracted from OCaml/Camlp4</description>
+    <created-at type="datetime">2010-11-27T14:16:35-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-27T14:16:35-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">2732</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-03-26T15:50:18-07:00</pushed>
+    <name>camllexer</name>
+    <owner>np</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/andrenth/ocaml-uint</url>
+    <forks type="integer">3</forks>
+    <pushed-at type="datetime">2011-04-03T18:59:36-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>andrenth</username>
+    <description>Unsigned ints for OCaml</description>
+    <created-at type="datetime">2010-01-08T08:03:07-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-01-08T08:03:07-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://forge.ocamlcore.org/projects/ocaml-uint</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">100</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-03T18:59:36-07:00</pushed>
+    <name>ocaml-uint</name>
+    <owner>andrenth</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/MyLifeLabs/atd</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-04T15:07:53-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>MyLifeLabs</username>
+    <description>Syntax for cross-language type definitions</description>
+    <created-at type="datetime">2011-02-02T11:24:22-08:00</created-at>
+    <organization>MyLifeLabs</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-02-02T11:24:22-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://oss.wink.com/atd/</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">488</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-04T15:07:53-07:00</pushed>
+    <name>atd</name>
+    <owner>MyLifeLabs</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/arifken/MD2Export</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-12-04T08:08:35-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>arifken</username>
+    <description>File translator for Autodesk Maya that exports Quake MD2 files</description>
+    <created-at type="datetime">2010-04-23T05:20:43-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-04-23T05:20:43-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.andyrifken.com/projects/5fb026e7-b779-4402-8edf-b3603fdb36e5</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">6420</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-12-04T08:08:35-08:00</pushed>
+    <name>MD2Export</name>
+    <owner>arifken</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/ermine/sulci</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-01-29T00:50:06-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>ermine</username>
+    <description>XMPP bot</description>
+    <created-at type="datetime">2009-09-04T10:29:01-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-09-04T10:29:01-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">3008</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-29T00:50:06-08:00</pushed>
+    <name>sulci</name>
+    <owner>ermine</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/MyLifeLabs/atdgen</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-11T14:11:12-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>MyLifeLabs</username>
+    <description>OCaml code generator for JSON and Biniou serialization</description>
+    <created-at type="datetime">2011-02-02T11:45:30-08:00</created-at>
+    <organization>MyLifeLabs</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-02-02T11:45:30-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://oss.wink.com/atdgen/</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">1608</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-11T14:11:12-07:00</pushed>
+    <name>atdgen</name>
+    <owner>MyLifeLabs</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/EchoTeam/ocaml-html-sanitizer</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-10-14T21:36:26-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>EchoTeam</username>
+    <description>HTML and CSS sanitizer Erlang port and a command-line utility in OCaml</description>
+    <created-at type="datetime">2010-09-01T15:31:26-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-01T15:31:26-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">false</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">396</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-10-14T21:36:26-07:00</pushed>
+    <name>ocaml-html-sanitizer</name>
+    <owner>EchoTeam</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/hhughes/ocaml-frui</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-04-14T06:29:16-07:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>hhughes</username>
+    <description>Web UI library for functionally reactive ocaml</description>
+    <created-at type="datetime">2010-11-13T12:23:15-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-13T12:23:15-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">2876</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-04-14T06:29:16-07:00</pushed>
+    <name>ocaml-frui</name>
+    <owner>hhughes</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/bomberstudios/mtasc</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2011-02-07T03:25:15-08:00</pushed-at>
+    <followers type="integer">5</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>bomberstudios</username>
+    <description>A fork of a fork of MTASC</description>
+    <created-at type="datetime">2009-11-26T08:03:51-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-11-26T08:03:51-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.mtasc.org</homepage>
+    <watchers type="integer">5</watchers>
+    <size type="integer">2560</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-02-07T03:25:15-08:00</pushed>
+    <name>mtasc</name>
+    <owner>bomberstudios</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">1</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/williamleferrand/mediawiki-ocaml-js</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-08-23T10:33:22-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>williamleferrand</username>
+    <description>Experimental mediawiki to/from html engine</description>
+    <created-at type="datetime">2010-08-14T02:01:34-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-08-14T02:01:34-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.myrilion.com:8080/wysiwyg?article=Open_innovation</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">236</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-08-23T10:33:22-07:00</pushed>
+    <name>mediawiki-ocaml-js</name>
+    <owner>williamleferrand</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/dustin/gearman-ocaml</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2009-07-25T00:50:41-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>dustin</username>
+    <description>OCaml library for gearman</description>
+    <created-at type="datetime">2009-07-25T00:35:49-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-07-25T00:35:49-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://dustin.github.com/gearman-ocaml/Gearman.html</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">340</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2009-07-25T00:50:41-07:00</pushed>
+    <name>gearman-ocaml</name>
+    <owner>dustin</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mboes/coqine</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-03-10T07:17:42-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mboes</username>
+    <description>An encoding of the Calculus of Inductive Constructions (as implemented in Coq) in Dedukti.</description>
+    <created-at type="datetime">2009-06-03T00:09:48-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-06-03T00:09:48-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">1876</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-03-10T07:17:42-08:00</pushed>
+    <name>coqine</name>
+    <owner>mboes</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/collaborativetrust/OcamlLdaLibs</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2009-09-15T23:22:57-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>collaborativetrust</username>
+    <description>Ocaml utility libraries, including Vec, a functional implementation of extensible arrays.</description>
+    <created-at type="datetime">2009-09-15T23:20:56-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-09-15T23:20:56-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://luca.dealfaro.org/Vec-Extensible-Functional-Arrays-for-Ocaml</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">224</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2009-09-15T23:22:57-07:00</pushed>
+    <name>OcamlLdaLibs</name>
+    <owner>collaborativetrust</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/jlouis/caml-in-couch</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2008-08-14T12:46:10-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>jlouis</username>
+    <description>Ocaml helper for CouchDb</description>
+    <created-at type="datetime">2008-08-11T12:57:26-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2008-08-11T12:57:26-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">104</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2008-08-14T12:46:10-07:00</pushed>
+    <name>caml-in-couch</name>
+    <owner>jlouis</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">2</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/pchickey/paparazzi-linux-release</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-04-17T11:11:02-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">false</has-issues>
+    <username>pchickey</username>
+    <description>A fork of the Paparazzi project targeting Linux-based autopilot hardware</description>
+    <created-at type="datetime">2010-02-05T19:09:44-08:00</created-at>
+    <master-branch>release</master-branch>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-02-05T19:09:44-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">false</has-downloads>
+    <homepage>http://moreproductive.org/autopilot/</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">8032</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-04-17T11:11:02-07:00</pushed>
+    <name>paparazzi-linux-release</name>
+    <owner>pchickey</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/BrailleNet/dtbprotect</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-04-21T18:08:58-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>BrailleNet</username>
+    <description>A Digital Talking Book encryption program</description>
+    <created-at type="datetime">2010-02-19T22:15:58-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-02-19T22:15:58-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.serveur-helene.org/</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">512</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-04-21T18:08:58-07:00</pushed>
+    <name>dtbprotect</name>
+    <owner>BrailleNet</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/pkrumins/the-little-mler</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-05-05T10:19:04-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>pkrumins</username>
+    <description>All the ML code examples from the book &quot;The Little MLer&quot;</description>
+    <created-at type="datetime">2010-03-19T09:18:10-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-19T09:18:10-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">596</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-05-05T10:19:04-07:00</pushed>
+    <name>the-little-mler</name>
+    <owner>pkrumins</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/dsheets/ocaml-facebook</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-04-20T21:29:38-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>dsheets</username>
+    <description>Facebook Platform client API in OCaml</description>
+    <created-at type="datetime">2009-12-08T16:41:56-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-12-08T16:41:56-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">432</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-04-20T21:29:38-07:00</pushed>
+    <name>ocaml-facebook</name>
+    <owner>dsheets</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mirage/cohttp</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-03-04T03:28:51-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mirage</username>
+    <description>Cooperative-threaded HTTP library</description>
+    <created-at type="datetime">2010-03-04T03:27:52-08:00</created-at>
+    <organization>mirage</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-03-04T03:27:52-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">316</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-03-04T03:28:51-08:00</pushed>
+    <name>cohttp</name>
+    <owner>mirage</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/bobot/FetedelascienceINRIAsaclay</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-10-21T07:06:25-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">false</has-issues>
+    <username>bobot</username>
+    <description>F&#234;te de la science INRIA saclay</description>
+    <created-at type="datetime">2010-10-20T07:51:34-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-10-20T07:51:34-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.inria.fr/centre-de-recherche-inria/saclay-ile-de-france/agenda/fete-de-la-science</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">22384</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-10-21T07:06:25-07:00</pushed>
+    <name>FetedelascienceINRIAsaclay</name>
+    <owner>bobot</owner>
+    <has-wiki type="boolean">false</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/alexy/clams</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-07-16T22:19:16-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>alexy</username>
+    <description>Social Capital in OCaml</description>
+    <created-at type="datetime">2010-06-21T06:43:11-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-21T06:43:11-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://functional.tv/</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">1464</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-07-16T22:19:16-07:00</pushed>
+    <name>clams</name>
+    <owner>alexy</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/kappamodeler/metakappa</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-11-23T10:49:33-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>kappamodeler</username>
+    <description>A meta-language for Kappa generation that allows the creation of protein hierarchies and the concise representation of protein-interaction rules. These structures can then be expanded into Kappa.</description>
+    <created-at type="datetime">2010-06-21T13:10:55-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-06-21T13:10:55-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://www.kappalanguage.org</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">5147</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-11-23T10:49:33-08:00</pushed>
+    <name>metakappa</name>
+    <owner>kappamodeler</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/samoht/camlscript</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-11-24T08:54:30-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>samoht</username>
+    <description>ocaml-to-javascript compiler at pre-processing time</description>
+    <created-at type="datetime">2010-11-24T08:52:37-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-24T08:52:37-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">252</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-11-24T08:54:30-08:00</pushed>
+    <name>camlscript</name>
+    <owner>samoht</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/aryx/lfs</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-09-29T00:36:23-07:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>aryx</username>
+    <description>logic file system</description>
+    <created-at type="datetime">2010-09-29T00:34:05-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-09-29T00:34:05-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">7888</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-09-29T00:36:23-07:00</pushed>
+    <name>lfs</name>
+    <owner>aryx</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/matthiasgoergens/OcamlRegEx</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-11-07T06:38:38-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>matthiasgoergens</username>
+    <description>Fast, pure and thread-safe regular expressions for Ocaml -- eventually</description>
+    <created-at type="datetime">2010-11-06T08:42:19-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-06T08:42:19-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">172</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-11-07T06:38:38-08:00</pushed>
+    <name>OcamlRegEx</name>
+    <owner>matthiasgoergens</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/mattam82/Coq-Equations</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-12-22T03:16:55-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>mattam82</username>
+    <description>A plugin for Coq to add dependent pattern-matching.</description>
+    <created-at type="datetime">2009-10-27T09:20:28-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-10-27T09:20:28-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage>http://mattam.org/research/coq/equations.en.html</homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">376</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-12-22T03:16:55-08:00</pushed>
+    <name>Coq-Equations</name>
+    <owner>mattam82</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">2</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/sneesh/Verishort</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2010-12-22T21:04:45-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>sneesh</username>
+    <description>Verishort for Stephen Edward's PLT course</description>
+    <created-at type="datetime">2010-11-03T15:57:34-07:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2010-11-03T15:57:34-07:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <language>OCaml</language>
+    <size type="integer">2228</size>
+    <private type="boolean">false</private>
+    <pushed type="datetime">2010-12-22T21:04:45-08:00</pushed>
+    <name>Verishort</name>
+    <owner>sneesh</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/hypios/hyLink</url>
+    <forks type="integer">1</forks>
+    <pushed-at type="datetime">2011-01-19T00:36:05-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>hypios</username>
+    <description>hypios opensource social framework</description>
+    <created-at type="datetime">2011-01-18T10:37:00-08:00</created-at>
+    <organization>hypios</organization>
+    <score type="float">8.517295</score>
+    <created type="datetime">2011-01-18T10:37:00-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <size type="integer">452</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2011-01-19T00:36:05-08:00</pushed>
+    <name>hyLink</name>
+    <owner>hypios</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+  <repository>
+    <type>repo</type>
+    <url>https://github.com/avsm/ocaml-git</url>
+    <forks type="integer">2</forks>
+    <pushed-at type="datetime">2010-01-25T12:46:40-08:00</pushed-at>
+    <followers type="integer">4</followers>
+    <has-issues type="boolean">true</has-issues>
+    <username>avsm</username>
+    <description>Git wrapper for OCaml</description>
+    <created-at type="datetime">2009-11-12T11:54:06-08:00</created-at>
+    <score type="float">8.517295</score>
+    <created type="datetime">2009-11-12T11:54:06-08:00</created>
+    <fork type="boolean">false</fork>
+    <has-downloads type="boolean">true</has-downloads>
+    <homepage></homepage>
+    <watchers type="integer">4</watchers>
+    <size type="integer">304</size>
+    <private type="boolean">false</private>
+    <language>OCaml</language>
+    <pushed type="datetime">2010-01-25T12:46:40-08:00</pushed>
+    <name>ocaml-git</name>
+    <owner>avsm</owner>
+    <has-wiki type="boolean">true</has-wiki>
+    <open-issues type="integer">0</open-issues>
+  </repository>
+</repositories>
