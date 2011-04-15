@@ -9,7 +9,7 @@ gh-repos.xml:
 	curl http://github.com/api/v2/xml/repos/search/*?language=OCaml -o $@
 
 gh-repos.urls: gh-repos.xml
-	xmlstarlet sel -t -m //url -v . -n $^ > $@
+	xmlstarlet sel -t -m //repository -v homepage -n -v url -n $^ > $@
 
 %.cse.tsv: %.urls
 	{ printf 'Url\tLabel\n'; \
