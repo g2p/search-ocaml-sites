@@ -15,8 +15,8 @@ gh-repos.urls: gh-repos.xml
 	{ printf 'Url\tLabel\n'; \
 		sort -u -- $^ |sed -ne '/./s/$$/\t_cse_$(CSE_ID)/p'; } > $@
 
-ohloh-projects.urls:
-	./ohloh-project-list --max=500 > $@
+ohloh-projects.urls: ohloh-projects-list
+	./$^ --max=500 > $@
 
 
 .PHONY: all

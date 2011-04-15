@@ -39,7 +39,11 @@ def main():
         et = lxml.etree.fromstring(data)
 
         for proj_el in et.xpath('//project'):
-            # May be empty, postprocess this
+            url_name = text1(proj_el, 'url_name')
+            # kicadocaml has only an id
+            if url_name is None:
+                url_name = text1(proj_el, 'id')
+            print('https://www.ohloh.net/p/' + urllib.quote(url_name))
             hp_url = text1(proj_el, 'homepage_url')
             if hp_url:
                 print(hp_url)
