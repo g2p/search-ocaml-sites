@@ -2,10 +2,10 @@
 CSE_ID := qlsdpvmhhdi
 
 all: \
-	gh-repos.direct.cse.tsv gh-repos.indirect.cse.tsv \
-	ohloh-projects.direct.cse.tsv ohloh-projects.indirect.cse.tsv
+	data/gh-repos.direct.cse.tsv data/gh-repos.indirect.cse.tsv \
+	data/ohloh-projects.direct.cse.tsv data/ohloh-projects.indirect.cse.tsv
 
-gh-repos.xml:
+data/gh-repos.xml:
 	curl http://github.com/api/v2/xml/repos/search/*?language=OCaml -o $@
 
 # Direct vs indirect:
@@ -14,21 +14,22 @@ gh-repos.xml:
 # For example, an OCaml project linking to a company homepage.
 # The company homepage has higher pagerank, but it's not OCaml-related.
 # Score these lower so they don't swamp results.
-gh-repos.direct.urls: gh-repos.xml
+data/gh-repos.direct.urls: data/gh-repos.xml
 	xmlstarlet sel -t -m //repository -v url -n $^ > $@
 
-gh-repos.indirect.urls: gh-repos.xml
+data/gh-repos.indirect.urls: data/gh-repos.xml
 	xmlstarlet sel -t -m //repository -v homepage -n $^ > $@
 
-%.direct.cse.tsv: %.direct.urls
+data/%.direct.cse.tsv: data/%.direct.urls
 	{ printf 'Url\tLabel\tScore\n'; \
 		sort -u -- $^ |sed -ne '/./s/$$/\t_cse_$(CSE_ID)\t.7/p'; } > $@
 
-%.indirect.cse.tsv: %.indirect.urls
+data/%.indirect.cse.tsv: data/%.indirect.urls
 	{ printf 'Url\tLabel\tScore\n'; \
 		sort -u -- $^ |sed -ne '/./s/$$/\t_cse_$(CSE_ID)\t.3/p'; } > $@
 
-ohloh-projects.direct.urls ohloh-projects.indirect.urls: ohloh-projects-list
+data/ohloh-projects.direct.urls data/ohloh-projects.indirect.urls: \
+		ohloh-projects-list
 	./$^ --max=500 \
 		--projpages=ohloh-projects.direct.urls \
 		--otherpages=ohloh-projects.indirect.urls
