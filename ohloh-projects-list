@@ -21,7 +21,12 @@ def main():
     parser.add_argument('--query', default='language:ocaml')
     parser.add_argument('--max', type=int, default=100)
     parser.add_argument('--sort', default='new')
+    parser.add_argument('--projpages',
+                        type=argparse.FileType('w'), default='-')
+    parser.add_argument('--otherpages',
+                        type=argparse.FileType('w'), default='-')
     args = parser.parse_args()
+
     api_key = open('.ohloh_api_key').read().rstrip()
     http = httplib2.Http(cache='.http_cache')
 
@@ -43,13 +48,14 @@ def main():
             # kicadocaml has only an id
             if url_name is None:
                 url_name = text1(proj_el, 'id')
-            print('https://www.ohloh.net/p/' + urllib.quote(url_name))
+            args.projpages.write(
+                'https://www.ohloh.net/p/%s\n' % urllib.quote(url_name))
             hp_url = text1(proj_el, 'homepage_url')
             if hp_url:
-                print(hp_url)
+                args.otherpages.write(hp_url + '\n')
             dl_url = text1(proj_el, 'download_url')
             if dl_url:
-                print(dl_url)
+                args.otherpages.write(dl_url + '\n')
 
         items_returned = int(text1(et, '//items_returned'))
         items_available = int(text1(et, '//items_available'))
